@@ -1,1 +1,24 @@
-{ "dependencies": { "next": "^14.2.5", "nextra": "^2.13.4", "nextra-theme-docs": "^2.13.4", "react": "^18.3.1", "react-dom": "^18.3.1" } }
+{
+  "name": "coding-journal",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Rovan Lama",
+  "bugs": {
+    "url": "https://github.com/lamarovan/journal/issues"
+  },
+  "dependencies": {
+    "next": "^14.2.5",
+    "nextra": "^2.13.4",
+    "nextra-theme-docs": "^2.13.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "22.0.0",
+    "typescript": "5.5.4"
+  }
+}
